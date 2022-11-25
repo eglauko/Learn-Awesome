@@ -124,7 +124,7 @@ A collection of links to various content related to software development, engine
 
 
 
-## Architectural patterns, Hexagonal, layered, etc. ##
+## Architectural patterns, Hexagonal, layered, clean, etc. ##
 
 * O que é BOLOVO - Slides - Article
 <br/> https://pt.slideshare.net/MayogaX/bolovo-no-use-por-a
@@ -172,7 +172,8 @@ A collection of links to various content related to software development, engine
 * SOFTWARE DELIVERY PROCESS - Blog
 <br/> https://www.goeleven.com/guides/software-delivery-process/?utm_source=substack&utm_medium=email
 
-
+* Clean Architecture with ASP.NET Core 3.0 - Jason Taylor - NDC Sydney 2019
+https://www.youtube.com/watch?v=5OtUm1BLmG0
 
 
 
