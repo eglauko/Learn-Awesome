@@ -173,7 +173,7 @@ A collection of links to various content related to software development, engine
 <br/> https://www.goeleven.com/guides/software-delivery-process/?utm_source=substack&utm_medium=email
 
 * Clean Architecture with ASP.NET Core 3.0 - Jason Taylor - NDC Sydney 2019
-https://www.youtube.com/watch?v=5OtUm1BLmG0
+<br/>https://www.youtube.com/watch?v=5OtUm1BLmG0
 
 
 
