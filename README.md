@@ -123,8 +123,7 @@ A collection of links to various content related to software development, engine
 
 
 
-
-## Architectural patterns, Hexagonal, layered, clean, etc. ##
+## BOLOVO - Architectural ANTI-Pattern
 
 O que é BOLOVO?
 
@@ -149,6 +148,12 @@ Uma outra forma falsa de apresentar a implementação de uma arquitetura para DD
 <br/> https://www.alura.com.br/artigos/o-que-e-modelo-anemico-e-por-que-fugir-dele
 <br/> https://www.alura.com.br/artigos/nao-aprender-oo-getters-e-setters
 <br/> http://blog.caelum.com.br/nao-aprender-oo-getters-e-setters/
+
+
+
+
+
+## Architectural patterns, Hexagonal, layered, clean, etc. ##
 
 * Alistair Cockburn - Hexagonal Architecture - Blog 
 <br/> https://alistair.cockburn.us/hexagonal-architecture/
