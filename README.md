@@ -140,7 +140,7 @@ Arquitetura orientada a BOLOVO, ou programação procedural, é um forte fator p
 Muitas pessoas (principalmente no Brasil) apresentam a arquitetura BOLOVO com forma de implantar o Domain-Driven Design, o que não passa de vigarice.
 É comum o Domain Layer virar Value Objects, Application Layer virar Bussiness Objects, e outras camandas Layer Objects.
 
-Uma outra forma falsa de apresentar a implementação de uma arquitetura para DDD é fazendo um de-para de uma antiga arquitetura utilizado em aplicativos Windows Forms onde as camadas eram divididas em Presenter Layer, Bussiness Login Layer (BLL) e Data Access Layer (DAL). BLL vira Application Layer e DAL é dividida em Domain Layer e Infra. Esta arquitetura veio do VB para .Net e também foi levada ao Asp.Net. Como a BOLOVO, ela tende ao desenvolvimento procedural e a criação de Big Ball of Mud.
+Uma outra forma falsa de apresentar uma implementação para a arquitetura em camadas do DDD é fazendo um de-para com a antiga arquitetura BLL/DAL, utilizada em aplicativos Windows Forms onde as camadas eram divididas em Presenter Layer, Bussiness Login Layer (BLL) e Data Access Layer (DAL). BLL vira Application Layer e DAL é dividida em Domain Layer e Infra. Esta arquitetura veio do VB para .Net e também foi levada ao Asp.Net. Como a BOLOVO, ela tende ao desenvolvimento procedural e a criação de Big Ball of Mud.
 
 * O que é BOLOVO - Slides - Article
 <br/> https://pt.slideshare.net/MayogaX/bolovo-no-use-por-a
