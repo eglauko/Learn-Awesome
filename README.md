@@ -126,6 +126,23 @@ A collection of links to various content related to software development, engine
 
 ## Architectural patterns, Hexagonal, layered, clean, etc. ##
 
+O que é BOLOVO?
+
+BOLOVO é um padrão de arquitetura em camadas legado do Java para trabalhar com sistemas distribuídos (n-tier) onde os objetos dos processos não mantinham seu estado.
+
+Este nome foi cunhado por Phil Calçado e significa Bussiness Objects, Layers Objects e Value Objects.
+
+Este tipo de arquitetura leva ao desenvolvimento procedural onde componentes de uma camada mais exterior, os layer objects, chamam funções de objetos de negócio que processam os dados e criam os objetos de valores, os quais são retornados para os layers objects.
+
+Na prática, value objects são classes que contém apenas informações (campos propriedades, sem comportamento), bussiness objects são classes que tem apenas métodos (ou seja, as procedures) além da dependência de outros serviços (de bussiness ou layer). Por fim, layer objects são classes que conectam as pontas (ou componentes).
+
+Arquitetura orientada a BOLOVO, ou programação procedural, é um forte fator para criação de Big Ball of Mud.
+
+Muitas pessoas (principalmente no Brasil) apresentam a arquitetura BOLOVO com forma de implantar o Domain-Driven Design, o que não passa de vigarice.
+É comum o Domain Layer virar Value Objects, Application Layer virar Bussiness Objects, e outras camandas Layer Objects.
+
+Uma outra forma falsa de apresentar a implementação de uma arquitetura para DDD é fazendo um de-para de uma antiga arquitetura utilizado em aplicativos Windows Forms onde as camadas eram divididas em Presenter Layer, Bussiness Login Layer (BLL) e Data Access Layer (DAL). BLL vira Application Layer e DAL é dividida em Domain Layer e Infra. Esta arquitetura veio do VB para .Net e também foi levada ao Asp.Net. Como a BOLOVO, ela tende ao desenvolvimento procedural e a criação de Big Ball of Mud.
+
 * O que é BOLOVO - Slides - Article
 <br/> https://pt.slideshare.net/MayogaX/bolovo-no-use-por-a
 <br/> https://www.slideshare.net/pcalcado/in-portuguese-arquitetura-java-em-2007
