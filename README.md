@@ -73,6 +73,9 @@ A collection of links to various content related to software development, engine
 * Sam Newman
 <br/> https://samnewman.io/
 
+* Olaf Zimmermann (Doc SoC)
+<br/>https://docsoc.medium.com/about
+
 * Andrew Lock | .NET Escapades
 <br/> https://andrewlock.net/
 
