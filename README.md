@@ -75,6 +75,8 @@ A collection of links to various content related to software development, engine
 
 * Olaf Zimmermann (Doc SoC)
 <br/>https://docsoc.medium.com/about
+<br/>https://api-patterns.org/
+<br/>https://ozimmer.ch/blog/
 
 * Andrew Lock | .NET Escapades
 <br/> https://andrewlock.net/
